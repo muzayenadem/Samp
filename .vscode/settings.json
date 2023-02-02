@@ -1,0 +1,14 @@
+{
+    "ipynb.experimental.pasteImages.enabled": true,
+    "color-highlight.matchWords": true,
+    "color-highlight.useARGB": true,
+    "debug.javascript.autoAttachFilter": "always",
+    "debug.javascript.breakOnConditionalError": true,
+    "debug.javascript.unmapMissingSources": true,
+    "debug.javascript.codelens.npmScripts": "all",
+    "debug.javascript.defaultRuntimeExecutable": {
+    "pwa-chrome": "",
+        "pwa-node": "node"
+    },
+    "liveServer.settings.port": 5501
+}
